@@ -95,7 +95,7 @@ def is_absolute_language(text: str) -> bool:
 
 
 ## Function Library Overview and Organization 
-1. Simple Functions:
+## 1. Simple Functions:
 
  * def normalize_whitespace(text: str) -> str
 
@@ -109,7 +109,7 @@ def is_absolute_language(text: str) -> bool:
 
  * def validate_nonempty_str(value: str) -> str:
 
-2. Medium Functions:
+## 2. Medium Functions:
 
  * def extract_domain(url: str) -> str:
 
@@ -121,7 +121,7 @@ def is_absolute_language(text: str) -> bool:
  
  * def source_comparison(text: str, knowledge_base: dict) -> dict
 
-3. Complex Functions:
+## 3. Complex Functions:
    
  * def build_claim_evidence_map(text: str) -> Dict[str, List[str]]:
 
