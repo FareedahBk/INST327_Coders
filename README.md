@@ -6,8 +6,11 @@ The **Credible Health Information Retrieval Tool** is an analysis system designe
 
 ## Team Members and Roles 
 Fareedah Bakare | Research and Data | Collects credible sources and relevant keywords 
+
 Donald Tobar | Frontend Lead | Focus is on the query interface and final visualization
+
 Jimmy Monzon | Backend Developer | Implements API retrieval and credibility scoring
+
 Kabir Jalloh | Quality and Documentation| Maintains Version Control 
 
 
